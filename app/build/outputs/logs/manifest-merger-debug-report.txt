@@ -1,0 +1,72 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:support-v4:21.0.0] C:\Users\tt\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.0.aar\ccf1623a9b578d53703f870dadafe2ae\AndroidManifest.xml:14:4-17:12
+INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.0] C:\Users\tt\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.0.aar\ccf1623a9b578d53703f870dadafe2ae\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.0] C:\Users\tt\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.0.aar\ccf1623a9b578d53703f870dadafe2ae\AndroidManifest.xml:15:5-42
+INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:12:5-26:19
+MERGED from [com.android.support:support-v4:21.0.0] C:\Users\tt\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.0.aar\ccf1623a9b578d53703f870dadafe2ae\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.0] C:\Users\tt\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.0.aar\ccf1623a9b578d53703f870dadafe2ae\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:14:9-46
+	android:allowBackup
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.exploreca.tourfinder.MainActivity
+ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:18:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from E:\WORK\AndroidStudio\XMLJDOMParser_AS\app\src\main\AndroidManifest.xml:23:27-74
